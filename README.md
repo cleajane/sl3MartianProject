@@ -9,5 +9,6 @@ Features of the QAM Transmission and Receiver System:
 Generates a modulated signal using QAM
 Generates a carrier signal of a particular frequency
 Generates a test signal of known frequency, amplitude, and phase
-Allows user to select the bandwidth for the transmitted signal
+Uses Different Signal to Noise Ratio (SNR) to test the Tx-Rx Model
 Displays the transmitted and received signals on display
+Presents the Bit Error Rate for Accuracy
