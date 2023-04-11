@@ -1,5 +1,6 @@
 # sl3MartianProject
 # Title: Implementation of 32-QAM Tx-Rx System using MATLAB 
+# https://youtu.be/C-GlQv8GuXA 
 
 Description: In this project, an audio file would be transmitted through a QAM scheme and the receiver would receive the signal and demodulate it. White/Gaussian Noise would also be added to make the TX-RX system closer to real-life systems. The receiver would recover the audio file input with plausible data. 
 
